@@ -1,0 +1,3 @@
+[workspace]
+members = ["q", "a"]
+resolver = "3"
